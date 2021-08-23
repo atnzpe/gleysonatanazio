@@ -1,4 +1,4 @@
-## Olá, seja bem vindo! Eu sou o Gleyson Atanazio e me sinto muito feliz em ter você aqui na Página do GitHub. Se tiver dúvida me manda um e-mail 
+## Olá, seja bem vindo! Eu sou o Gleyson Atanazio e me sinto muito feliz em ter você aqui na minha Home do GitHub. Se tiver alguma dúvida me manda um <a href = "mailto:gleysonasilva@gmail.com" target="_blank">e-mail</a> 😉👍
  <div>
   <a href="https://github.com/gleysonatanazio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gleysonatanazio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
